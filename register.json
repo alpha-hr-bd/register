@@ -1,15 +1,9 @@
 {
   "$schema": "./schema/register.schema.json",
-  "openrepos.io": {},
   "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
+    "hrtopup": {
+      "repo": "https://github.com/alpha-hr-bd/hrtopup",
+      "target": "hrtopup.pages.dev"
     }
-  },
-  "openrepos.sh": {},
-  "repos.one": {},
-  "sourcepage.io": {},
-  "sourcepage.org": {},
-  "sourcepage.sh": {}
+  }
 }
